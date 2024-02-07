@@ -1,0 +1,6 @@
+__pycache__/
+logfile*
+en_vectors_floret_md*
+en_vectors_floret_lg*
+trec-covid/
+
